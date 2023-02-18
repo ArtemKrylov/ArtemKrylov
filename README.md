@@ -8,7 +8,7 @@
 [<img src="https://user-images.githubusercontent.com/43321337/219869938-7b3098f4-58f4-453b-aa26-fe4b32af1140.png" alt="My telegram" width="50" align="left">](https://t.me/AKRay1994)
 [<img src="https://user-images.githubusercontent.com/43321337/219869971-357eab9d-3a68-410a-a773-ef18336f7125.png" alt="My linkedIn" width="50" align="left">](https://www.linkedin.com/in/artem-krylov-3b0b37264/)
 [<img src="https://user-images.githubusercontent.com/43321337/219869823-094bd0af-c405-4423-addc-22edf9f763fa.png" alt="My instagram" width="50" align="left">](https://www.instagram.com/_artem.krylov_/)
-[<img src="https://user-images.githubusercontent.com/43321337/219870021-6d65f4f0-30ba-4ebc-9bd5-636e6928c19d.png" alt="My email" width="65" align="left">](krylovartem1994@gmail.com)
+[<img src="https://user-images.githubusercontent.com/43321337/219870021-6d65f4f0-30ba-4ebc-9bd5-636e6928c19d.png" alt="My email" width="65" align="left">](mailto:krylovartem1994@gmail.com)
 <br /><br /><br />
 
 ## My Stack: 
