@@ -30,8 +30,10 @@
   ⚡CSS, adaptive and responsive layout, adaptive pictures, icons
   ⚡SCSS, sprites, mixines, variables
   ⚡JS, DOM, async JS (Promise, async/await), Fetch API, REST API and CRUD
-  ⚡React, props, propTypes
-  ⚡Firebase authorization
+  ⚡React, class and functional components, hooks, React Routing
+  ⚡Redux, Redux Toolkit
+  ⚡Typescript
+  ⚡Firebase authorization, Firestore
   ⚡Parcel
   ⚡Figma
   ⚡Visual Studio Code, Terminal, npm
