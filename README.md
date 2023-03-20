@@ -4,6 +4,10 @@
 - 👨🏻‍💻 My leetcode: https://leetcode.com/ArtemKrylov/
 <br />
 
+## My resume:
+https://drive.google.com/file/d/1eOqV1KLiNRNPJ5N6hMnePBH81ZCK-u8S/view?usp=sharing
+<br />
+
 ## Contact me:
 [<img src="https://user-images.githubusercontent.com/43321337/219869938-7b3098f4-58f4-453b-aa26-fe4b32af1140.png" alt="My telegram" width="50" align="left">](https://t.me/AKRay1994)
 [<img src="https://user-images.githubusercontent.com/43321337/219869971-357eab9d-3a68-410a-a773-ef18336f7125.png" alt="My linkedIn" width="50" align="left">](https://www.linkedin.com/in/artem-krylov-3b0b37264/)
