@@ -31,7 +31,7 @@ https://drive.google.com/file/d/1eOqV1KLiNRNPJ5N6hMnePBH81ZCK-u8S/view?usp=shari
 
 
 
-<br />## In details:
+## In details:
   ⚡semantic HTML5, BEM methodology
   ⚡CSS, adaptive and responsive layout, adaptive pictures, icons
   ⚡SCSS, sprites, mixines, variables
