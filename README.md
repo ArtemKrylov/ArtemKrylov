@@ -29,7 +29,9 @@ https://drive.google.com/file/d/1eOqV1KLiNRNPJ5N6hMnePBH81ZCK-u8S/view?usp=shari
 <img src="https://user-images.githubusercontent.com/43321337/219867763-c107575e-43af-46bb-a662-7fd019c62aa7.png" alt="command line" width="50" align="left">
 <br /><br /><br />
 
-## In details:
+
+
+<br />## In details:
   ⚡semantic HTML5, BEM methodology
   ⚡CSS, adaptive and responsive layout, adaptive pictures, icons
   ⚡SCSS, sprites, mixines, variables
