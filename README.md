@@ -27,8 +27,6 @@ https://drive.google.com/file/d/1eOqV1KLiNRNPJ5N6hMnePBH81ZCK-u8S/view?usp=shari
 <img src="https://user-images.githubusercontent.com/43321337/219867040-af7a33df-b5ba-4f15-91f3-28a5017728fa.png" alt="Parcel" width="50" align="left">
 <img src="https://user-images.githubusercontent.com/43321337/219867225-381e82c5-9b04-4a1b-945b-03e32e4dc4a1.png" alt="VSCode" width="60" align="left">
 <img src="https://user-images.githubusercontent.com/43321337/219867418-29765c04-3645-49e8-9a6c-9383544a479f.png" alt="npm" width="60" align="left">
-<br />
-<img src="https://user-images.githubusercontent.com/43321337/219867763-c107575e-43af-46bb-a662-7fd019c62aa7.png" alt="command line" width="50" align="left">
 <br /><br /><br />
 
 
