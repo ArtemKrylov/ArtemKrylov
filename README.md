@@ -18,6 +18,7 @@ https://drive.google.com/file/d/1eOqV1KLiNRNPJ5N6hMnePBH81ZCK-u8S/view?usp=shari
 ## My Stack: 
 <img src="https://user-images.githubusercontent.com/43321337/219866601-af908721-d9b4-41e5-9383-91e7d12d3e35.png" alt="React" width="50" align="left">
 <img src="https://user-images.githubusercontent.com/43321337/226206478-915de4ef-7fbd-46a9-ad21-64693c0f21e3.png" alt="Redux" width="50" align="left">
+<img src="https://user-images.githubusercontent.com/43321337/234073507-09fe8b68-00eb-4a3f-b30a-b34f75c88dc2.png" alt="Typescript" width="50" align="left">
 <img src="https://user-images.githubusercontent.com/43321337/219866397-6b61f244-773a-42ca-b973-b4ef7628c7a1.png" alt="JavaScript" width="50" align="left">
 <img src="https://user-images.githubusercontent.com/43321337/219866896-20da6674-a568-47e5-be63-9e3b7ba202a7.png" alt="HTML5" width="50" align="left">
 <img src="https://user-images.githubusercontent.com/43321337/219867313-1de1ff8a-ebd2-417b-ae1f-39f6510f64da.png" alt="SASS/SCSS" width="60" align="left">
@@ -29,6 +30,7 @@ https://drive.google.com/file/d/1eOqV1KLiNRNPJ5N6hMnePBH81ZCK-u8S/view?usp=shari
 <img src="https://user-images.githubusercontent.com/43321337/219867763-c107575e-43af-46bb-a662-7fd019c62aa7.png" alt="command line" width="50" align="left">
 <br /><br /><br />
 
+![image](https://user-images.githubusercontent.com/43321337/234073507-09fe8b68-00eb-4a3f-b30a-b34f75c88dc2.png)
 
 
 ## In details:
@@ -37,10 +39,11 @@ https://drive.google.com/file/d/1eOqV1KLiNRNPJ5N6hMnePBH81ZCK-u8S/view?usp=shari
   ⚡SCSS, sprites, mixines, variables
   ⚡JS, DOM, async JS (Promise, async/await), Fetch API, REST API and CRUD
   ⚡React, class and functional components, hooks, React Routing
-  ⚡Redux, Redux Toolkit
+  ⚡Redux, Redux Toolkit, redux async thunk, redux-persist
   ⚡Typescript
+  ⚡Chakra UI/ Material UI
   ⚡Firebase authorization, Firestore
-  ⚡Parcel
+  ⚡Parcel, Webpack
   ⚡Figma
   ⚡Visual Studio Code, Terminal, npm
   ⚡GIT, GitHub
