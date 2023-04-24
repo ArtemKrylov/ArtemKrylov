@@ -30,8 +30,6 @@ https://drive.google.com/file/d/1eOqV1KLiNRNPJ5N6hMnePBH81ZCK-u8S/view?usp=shari
 <img src="https://user-images.githubusercontent.com/43321337/219867763-c107575e-43af-46bb-a662-7fd019c62aa7.png" alt="command line" width="50" align="left">
 <br /><br /><br />
 
-![image](https://user-images.githubusercontent.com/43321337/234073507-09fe8b68-00eb-4a3f-b30a-b34f75c88dc2.png)
-
 
 ## In details:
   ⚡semantic HTML5, BEM methodology
