@@ -31,14 +31,14 @@ https://drive.google.com/file/d/1eOqV1KLiNRNPJ5N6hMnePBH81ZCK-u8S/view?usp=shari
 
 
 ## In details:
-  ⚡semantic HTML5, BEM methodology
-  ⚡CSS, adaptive and responsive layout, adaptive pictures, icons
-  ⚡SCSS, sprites, mixines, variables
-  ⚡JS, DOM, async JS (Promise, async/await), Fetch API, REST API and CRUD
-  ⚡React, class and functional components, hooks, React Routing
-  ⚡Redux, Redux Toolkit, redux async thunk, redux-persist
+  ⚡React, class and functional components, hooks, React Routing (react-router-dom)
   ⚡Typescript
+  ⚡Redux, Redux Toolkit, redux async thunk, redux-persist
   ⚡Chakra UI/ Material UI
+  ⚡JS, DOM, async JS (Promise, async/await), Fetch API, REST API and CRUD
+  ⚡SCSS, sprites, mixines, variables
+  ⚡CSS, adaptive and responsive layout, adaptive pictures, icons
+  ⚡semantic HTML5, BEM methodology
   ⚡Firebase authorization, Firestore
   ⚡Parcel, Webpack
   ⚡Figma
