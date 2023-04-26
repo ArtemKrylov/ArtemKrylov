@@ -32,9 +32,9 @@ https://drive.google.com/file/d/1eOqV1KLiNRNPJ5N6hMnePBH81ZCK-u8S/view?usp=shari
 
 ## In details:
   ⚡React, class and functional components, hooks, React Routing (react-router-dom)
-  ⚡Typescript
   ⚡Redux, Redux Toolkit, redux async thunk, redux-persist
   ⚡Chakra UI/ Material UI
+  ⚡Typescript
   ⚡JS, DOM, async JS (Promise, async/await), Fetch API, REST API and CRUD
   ⚡SCSS, sprites, mixines, variables
   ⚡CSS, adaptive and responsive layout, adaptive pictures, icons
