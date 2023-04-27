@@ -5,7 +5,7 @@
 <br />
 
 ## My resume:
-https://drive.google.com/file/d/1eOqV1KLiNRNPJ5N6hMnePBH81ZCK-u8S/view?usp=sharing
+https://drive.google.com/file/d/1i9JZkCW01WiUAnDONi1nQ5lGTY1TU4QL/view?usp=share_link
 <br />
 
 ## Contact me:
