@@ -33,6 +33,7 @@ https://drive.google.com/file/d/1i9JZkCW01WiUAnDONi1nQ5lGTY1TU4QL/view?usp=share
 ## In details:
   ⚡React, class and functional components, hooks, React Routing (react-router-dom)
   ⚡Redux, Redux Toolkit, redux async thunk, redux-persist
+  ⚡RTK Query
   ⚡Chakra UI/ Material UI
   ⚡Typescript
   ⚡JS, DOM, async JS (Promise, async/await), Fetch API, REST API and CRUD
