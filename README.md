@@ -38,7 +38,7 @@ https://drive.google.com/file/d/1i9JZkCW01WiUAnDONi1nQ5lGTY1TU4QL/view?usp=share
   ⚡Typescript
   ⚡JS, DOM, async JS (Promise, async/await), Fetch API, REST API and CRUD
   ⚡SCSS, sprites, mixines, variables
-  ⚡CSS, adaptive and responsive layout, adaptive pictures, icons
+  ⚡CSS, responsive layout, adaptive pictures, icons
   ⚡semantic HTML5, BEM methodology
   ⚡Firebase authorization, Firestore
   ⚡Parcel, Webpack
