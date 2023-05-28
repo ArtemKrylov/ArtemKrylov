@@ -5,8 +5,8 @@
 <br />
 
 ## My resume:
-https://drive.google.com/file/d/121byT0GyPQ6aPeQ6oI8ahjTi8DyPT4f4/view?usp=sharing
-[Artem_Krylov_Frontend.pdf](https://github.com/ArtemKrylov/ArtemKrylov/files/11584300/Artem_Krylov_Frontend.pdf)
+[Artem_Krylov_Frontend.pdf](https://github.com/ArtemKrylov/ArtemKrylov/files/11584302/Artem_Krylov_Frontend.pdf)
+
 <br />
 
 ## Contact me:
