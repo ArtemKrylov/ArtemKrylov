@@ -4,7 +4,7 @@
 - 👨🏻‍💻 My leetcode: https://leetcode.com/ArtemKrylov/
 <br />
 ## My resume:
-https://drive.google.com/file/d/1w1Ky61mgcpPoO20Po3bLN78wUsLM2daS/view?usp=sharing
+https://drive.google.com/file/d/1Aj4s_fyWCS5im247E8A323_Et_wB1T6u/view?usp=sharing
 
 
 [Artem_Krylov_Frontend.pdf](https://github.com/ArtemKrylov/ArtemKrylov/files/11584313/Artem_Krylov_Frontend.pdf)
