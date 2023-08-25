@@ -38,7 +38,7 @@ https://drive.google.com/file/d/1Aj4s_fyWCS5im247E8A323_Et_wB1T6u/view?usp=shari
   ⚡Chakra UI/ Material UI
   ⚡Typescript
   ⚡JS, DOM, async JS (Promise, async/await), Fetch API, REST API and CRUD
-  ⚡SCSS, sprites, mixines, variables
+  ⚡SCSS, sprites, mixins, variables
   ⚡CSS, responsive layout, adaptive pictures, icons
   ⚡semantic HTML5, BEM methodology
   ⚡Firebase authorization, Firestore
