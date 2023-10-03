@@ -21,6 +21,7 @@ https://drive.google.com/file/d/1Aj4s_fyWCS5im247E8A323_Et_wB1T6u/view?usp=shari
 <img src="https://user-images.githubusercontent.com/43321337/226206478-915de4ef-7fbd-46a9-ad21-64693c0f21e3.png" alt="Redux" width="50" align="left">
 <img src="https://user-images.githubusercontent.com/43321337/234073507-09fe8b68-00eb-4a3f-b30a-b34f75c88dc2.png" alt="Typescript" width="50" align="left">
 <img src="https://user-images.githubusercontent.com/43321337/219866397-6b61f244-773a-42ca-b973-b4ef7628c7a1.png" alt="JavaScript" width="50" align="left">
+<img src="https://github.com/ArtemKrylov/ArtemKrylov/assets/43321337/e2c3041b-677b-46bd-a606-e2615c0bac40" alt="Jest" width="50" align="left">
 <img src="https://user-images.githubusercontent.com/43321337/219866896-20da6674-a568-47e5-be63-9e3b7ba202a7.png" alt="HTML5" width="50" align="left">
 <img src="https://user-images.githubusercontent.com/43321337/219867313-1de1ff8a-ebd2-417b-ae1f-39f6510f64da.png" alt="SASS/SCSS" width="60" align="left">
 <img src="https://user-images.githubusercontent.com/43321337/219866939-27a7a836-80e1-4179-a98c-d3d60624031d.png" alt="Git" width="50" align="left">
@@ -38,6 +39,7 @@ https://drive.google.com/file/d/1Aj4s_fyWCS5im247E8A323_Et_wB1T6u/view?usp=shari
   ⚡Chakra UI/ Material UI
   ⚡Typescript
   ⚡JS, DOM, async JS (Promise, async/await), Fetch API, REST API and CRUD
+  ⚡Jest, React Testing Library
   ⚡SCSS, sprites, mixins, variables
   ⚡CSS, responsive layout, adaptive pictures, icons
   ⚡semantic HTML5, BEM methodology
