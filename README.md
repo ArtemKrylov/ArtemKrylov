@@ -17,18 +17,18 @@ https://drive.google.com/file/d/1Aj4s_fyWCS5im247E8A323_Et_wB1T6u/view?usp=shari
 <br /><br /><br />
 
 ## My Stack: 
-<img src="https://user-images.githubusercontent.com/43321337/219866601-af908721-d9b4-41e5-9383-91e7d12d3e35.png" alt="React" width="50" align="left">
-<img src="https://user-images.githubusercontent.com/43321337/226206478-915de4ef-7fbd-46a9-ad21-64693c0f21e3.png" alt="Redux" width="50" align="left">
-<img src="https://user-images.githubusercontent.com/43321337/234073507-09fe8b68-00eb-4a3f-b30a-b34f75c88dc2.png" alt="Typescript" width="50" align="left">
-<img src="https://user-images.githubusercontent.com/43321337/219866397-6b61f244-773a-42ca-b973-b4ef7628c7a1.png" alt="JavaScript" width="50" align="left">
+<img src="https://user-images.githubusercontent.com/43321337/219866601-af908721-d9b4-41e5-9383-91e7d12d3e35.png" alt="React"  width="50" height="50"  align="left">
+<img src="https://user-images.githubusercontent.com/43321337/226206478-915de4ef-7fbd-46a9-ad21-64693c0f21e3.png" alt="Redux"  width="50" height="50"  align="left">
+<img src="https://user-images.githubusercontent.com/43321337/234073507-09fe8b68-00eb-4a3f-b30a-b34f75c88dc2.png" alt="Typescript"  width="50" height="50" align="left">
+<img src="https://user-images.githubusercontent.com/43321337/219866397-6b61f244-773a-42ca-b973-b4ef7628c7a1.png" alt="JavaScript"  width="50" height="50"  align="left">
 <img src="https://github.com/ArtemKrylov/ArtemKrylov/assets/43321337/e2c3041b-677b-46bd-a606-e2615c0bac40" alt="Jest" width="50" height="50" align="left">
 <img src="https://github.com/ArtemKrylov/ArtemKrylov/assets/43321337/b1b9693d-aa32-4cff-9641-ad656cf6a912" alt="RTL" width="50" height="50" align="left">
-<img src="https://user-images.githubusercontent.com/43321337/219866896-20da6674-a568-47e5-be63-9e3b7ba202a7.png" alt="HTML5" width="50" align="left">
-<img src="https://user-images.githubusercontent.com/43321337/219867313-1de1ff8a-ebd2-417b-ae1f-39f6510f64da.png" alt="SASS/SCSS" width="60" align="left">
-<img src="https://user-images.githubusercontent.com/43321337/219866939-27a7a836-80e1-4179-a98c-d3d60624031d.png" alt="Git" width="50" align="left">
-<img src="https://user-images.githubusercontent.com/43321337/219868904-d1f4f104-73b7-4242-bab8-5f23f90ff51d.png" alt="GitHub" width="50" align="left">
-<img src="https://user-images.githubusercontent.com/43321337/219867040-af7a33df-b5ba-4f15-91f3-28a5017728fa.png" alt="Parcel" width="50" align="left">
-<img src="https://user-images.githubusercontent.com/43321337/219867225-381e82c5-9b04-4a1b-945b-03e32e4dc4a1.png" alt="VSCode" width="60" align="left">
+<img src="https://user-images.githubusercontent.com/43321337/219866896-20da6674-a568-47e5-be63-9e3b7ba202a7.png" alt="HTML5" width="50" height="50"  align="left">
+<img src="https://user-images.githubusercontent.com/43321337/219867313-1de1ff8a-ebd2-417b-ae1f-39f6510f64da.png" alt="SASS/SCSS" width="50" height="50" align="left">
+<img src="https://user-images.githubusercontent.com/43321337/219866939-27a7a836-80e1-4179-a98c-d3d60624031d.png" alt="Git"  width="50" height="50" align="left">
+<img src="https://user-images.githubusercontent.com/43321337/219868904-d1f4f104-73b7-4242-bab8-5f23f90ff51d.png" alt="GitHub" width="50" height="50"  align="left">
+<img src="https://user-images.githubusercontent.com/43321337/219867040-af7a33df-b5ba-4f15-91f3-28a5017728fa.png" alt="Parcel" width="50" height="50" align="left">
+<img src="https://user-images.githubusercontent.com/43321337/219867225-381e82c5-9b04-4a1b-945b-03e32e4dc4a1.png" alt="VSCode" width="50" height="50"  align="left">
 <img src="https://github.com/ArtemKrylov/ArtemKrylov/assets/43321337/bc57c2ed-048d-4a9e-8dad-5a1038ff7bea" alt="npm" width="50"  height="50" align="left">
 
 
